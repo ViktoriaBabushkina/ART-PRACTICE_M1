@@ -1,5 +1,15 @@
-.fstr{
+body {
     width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+
+.container {
+    width: 1440px; 
+    margin: 0 auto;
 }
 
 .f_img{
@@ -24,7 +34,7 @@ h1{
     display: flex;
     justify-content:flex-end;
     align-items:flex-end;
-    margin-top: 119px;
+    margin-top: 0px;
     width: 100%;
     color: #1a1a1a;
     margin-right: 24px;
@@ -34,14 +44,24 @@ h1{
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
-    margin-top: 600px;
+    margin-top: 530px;
     width: 100%;
     color: #1a1a1a;
     margin-left: 24px;
 }
 
+.scnd{
+    width: 48%;
+}
+
+.text_nach{
+    width: 70%;
+    margin-top: -58%;
+    margin-left: 180px;
+}
+
 .s_img{
-    width: 50%;
+    width: 100%;
     margin-top: 3%;
 }
 
@@ -75,10 +95,13 @@ h1{
     color: #1a1a1a;
 }
 
+.s_half{
+    width: 48%;
+    margin-top: -30%;
+}
+
 .t_img{
-    width: 46%;
-    margin-top: -28%;
-    margin-left: 990px;
+    width: 100%;
 }
 
 .navig{
@@ -103,6 +126,7 @@ h1{
     margin-left: 1180px;
     margin-top: 1%;
 }
+
 .raz{
     color: #1a1a1a;
     margin-left: 1530px;
