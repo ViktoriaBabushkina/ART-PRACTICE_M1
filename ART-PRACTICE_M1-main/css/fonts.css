@@ -1,0 +1,81 @@
+@font-face {
+    font-family: "pt-root-ui_light";
+    src: url(../PT-Root-UI.web/PT/PT/PT-Root-UI/pt-root-ui_light.woff);
+    font-weight: lighter;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:"pt-root-ui_regular" ;
+    src: url(../PT-Root-UI.web/PT/PT/PT-Root-UI/pt-root-ui_regular.woff);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "pt-root-ui_bold";
+    src: url(../PT-Root-UI.web/PT/PT/PT-Root-UI/pt-root-ui_bold.woff);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "pt-root-ui_medium";
+    src: url(../PT-Root-UI.web/PT/PT/PT-Root-UI/pt-root-ui_medium.woff);
+    font-style: normal;
+}
+
+h1{
+    font-family: "pt-root-ui_light";
+    font-size: 155px;
+}
+
+.zd{
+    font-family: "pt-root-ui_regular";
+    font-size: 24px;
+}
+
+.vb{
+    font-family: "pt-root-ui_regular";
+    font-size: 24px;
+}
+
+.nach{
+    font-family: "pt-root-ui_light";
+    font-size: 64px;
+}
+
+.light{
+    font-family:"pt-root-ui_light";
+    font-size: 40px;
+}
+
+.reg{
+    font-family:"pt-root-ui_regular";
+    font-size: 40px;
+}
+
+.med{
+    font-family:"pt-root-ui_medium";
+    font-size: 40px;
+}
+
+.bold{
+    font-family:"pt-root-ui_bold";
+    font-size: 40px;
+}
+
+.navig{
+    font-family:"pt-root-ui_light";
+    font-size: 40px;
+}
+
+.nap{
+    font-family:"pt-root-ui_light";
+    font-size: 24px;
+}
+
+.raz{
+    font-family:"pt-root-ui_light";
+    font-size: 24px;
+}
