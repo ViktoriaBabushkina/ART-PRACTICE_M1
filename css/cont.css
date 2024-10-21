@@ -66,7 +66,7 @@ h1{
 }
 
 .nach{
-    margin-top: 5%;
+    margin-top: 15%;
     margin-left: 24px;
     color: #1a1a1a;
 }
@@ -96,8 +96,9 @@ h1{
 }
 
 .s_half{
-    width: 48%;
-    margin-top: -30%;
+    width: 100%;
+    margin-top: -55%;
+    margin-left: 750px;
 }
 
 .t_img{
@@ -106,29 +107,186 @@ h1{
 
 .navig{
     color: #1a1a1a;
-    margin-top: -35%;
-    margin-left: 1200px;
+    margin-top: -78%;
+    display: flex;
+    justify-content: center;
 }
 
+.f_nap{
+    width: 50%;
+    margin-top: 20%;
+    margin-left: 50px;
+}
 .nap_img{
-    width: 20%;
-    margin-left: 1050px;
-    margin-top: 8%;
+   width: 90%;
+}
+
+.f_raz{
+    width: 100%;
+    margin-top: -33%;
+    margin-left: 430px;
 }
 
 .raz_img{
-    width: 14%;
-    margin-left: 50px;
+    width: 30%;
 }
 
 .nap{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
     color: #1a1a1a;
-    margin-left: 1180px;
-    margin-top: 1%;
 }
 
 .raz{
+    margin-top: 4.5%;
+    margin-left: 40px;
     color: #1a1a1a;
-    margin-left: 1530px;
-    margin-top: -1.2%;
+}
+
+.features{
+    margin-top: 20%;
+    margin-left: 24px;
+}
+
+.osob{
+    margin-left: 24px;
+}
+
+.f_kvadro{
+    margin-top: 55px;
+    margin-left: 126px;
+}
+
+.img_kvadro{
+    margin-left: 35px;
+}
+
+.text_kvadro{
+    color: #1a1a1a;
+}
+.serk{
+    color: #1a1a1a;
+    margin-left: 22px;
+}
+
+.f_lack{
+    margin-top: -13.6%;
+    margin-left: 580px;
+}
+
+.img_lack{
+    margin-left: 35px;
+}
+
+.hvost{
+    margin-left: 44px;
+}
+
+.text_lack{
+    margin-top: -0.5%;
+}
+
+.f_prop{
+    margin-top: -13.7%;
+    margin-left: 1050px;
+}
+
+.img_prop{
+    margin-left: 50px;
+}
+
+.text_prop{
+    margin-top: -0.5%;
+}
+
+.img_kor{
+    width: 100%;
+    margin-top: 7%;
+}
+
+.language{
+    margin-top: 7%;
+}
+
+.text_language_1{
+    margin-left: 24px;
+}
+
+.text_language_2{
+    margin-top: -2.1%;
+    margin-left: 205px;
+}
+
+.jap{
+    margin-top: 5%;
+    margin-left: 80px;
+}
+
+.text_jap{
+    margin-left: 100px;
+}
+
+.img_jap{
+    width: 25%;
+    margin-top: 2%;
+}
+
+.amerika{
+    margin-top: -21.3%;
+    margin-left: 580px;
+}
+
+.text_amerika{
+    margin-left: 130px;
+}
+
+.img_amerika{
+    margin-top: 2%;
+}
+
+.russia{
+    margin-top: -24.6%;
+    margin-left: 1150px;
+}
+
+.img_russia{
+    margin-top: 2%;
+}
+
+.Glif{
+    margin-top: 10%;
+}
+
+.text_glif{
+    margin-left: 107px;
+}
+
+.text_1100{
+    margin-top: -1.9%;
+    margin-left: 200px;
+}
+
+.text_spec{
+    margin-top: -2%;
+    margin-left: 390px;
+}
+
+.text_font1{
+    margin-top: -2.1%;
+    margin-left: 1050px;
+}
+
+.text_font2{
+    margin-left: 1125px;
+}
+
+.font{
+    margin-top: -25%;
+    margin-left: 967px;
+}
+
+.text_font{
+    margin-top: -43%;
+    margin-left: 120px;
 }
