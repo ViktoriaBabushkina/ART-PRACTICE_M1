@@ -287,10 +287,137 @@ h1{
 }
 
 .text_font{
-    margin-top: -43%;
-    margin-left: 120px;
+    margin-top: -36%;
+    margin-left: 100px;
 }
 
 .img_font{
+    width: 80%;
+}
+
+.uni{
+    margin-top: 20%;
+}
+
+.text_uni{
+    margin-left: 24px;
+}
+
+.r_ang{
+    margin-top: 5%;
+    margin-left: 66px;
+}
+
+.img_r_ang{
+    width: 8%;
+}
+
+.vse_uni{
+   margin-left: 25px;
+}
+
+.sh_light{
+    margin-top: -20%;
+    margin-left: 300px;
+}
+
+.sh_reg{
+    margin-top: -13.5%;
+    margin-left: 500px;
+}
+
+.sh_med{
+    margin-top: -13%;
+    margin-left: 700px;
+}
+
+.sh_bold{
+    margin-top: -13%;
+    margin-left: 900px;
+}
+
+.img_light{
+    width: 17%;
+}
+
+.img_reg{
+    width: 20%;
+}
+
+.img_med{
+    width: 25%;
+}
+
+.img_bold{
+    width: 34.5%;
+}
+
+.img_l_ang{
+    width: 50%;
+}
+
+.l_ang{
+    margin-top: -25%;
+    margin-left: 1200px;
+}
+
+.text_ouni{
+ margin-top: -3%;
+}
+
+.text_ouni1{
+    display: flex;
+    justify-content: center;
+}
+
+.text_ouni2{
+    display: flex;
+    justify-content: center;
+}
+
+.nambers{
+    margin-top: 12%;
+}
+
+.text_nambers{
+    margin-left: 24px;
+}
+
+.F_img_nambers{
+    margin-top: -2%;
+    margin-left: 300px;
+}
+
+.text_p_nambers{
+    margin-top: 5%;
+}
+
+.text_nambers2{
+    display: flex;
+    justify-content: center;
+}
+
+.text_nambers3{
+   margin-left: 220px;
+}
+
+.text_nambers4{
+    margin-left: 220px;
+}
+
+.text_vika{
+    margin-top: 5%;
+}
+
+.vika{
+    margin-left: 24px;
+}
+
+.Logo{
+    margin-top: -4.5%;
+    margin-left: 1200px;
+}
+
+.img_logo{
     width: 60%;
 }
