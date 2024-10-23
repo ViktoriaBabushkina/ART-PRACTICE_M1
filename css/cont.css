@@ -31,14 +31,10 @@ h1{
 
 
 .zd{
-    /* position: absolute; */
-    display: flex;
-    justify-content:flex-end;
-    align-items:flex-end;
     margin-top: 0px;
     width: 100%;
     color: #1a1a1a;
-    margin-right: 24px;
+    margin-left: 1226px;
 }
 
 .vb{
