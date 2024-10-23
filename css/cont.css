@@ -10,6 +10,7 @@ body {
 .container {
     width: 1440px; 
     margin: 0 auto;
+    border: 1px solid black;
 }
 
 .f_img{
@@ -149,10 +150,6 @@ h1{
     margin-left: 24px;
 }
 
-.osob{
-    margin-left: 24px;
-}
-
 .f_kvadro{
     margin-top: 55px;
     margin-left: 126px;
@@ -201,8 +198,9 @@ h1{
 }
 
 .img_kor{
-    width: 100%;
+    width: 101.8%;
     margin-top: 7%;
+    margin-left: -25px;
 }
 
 .language{
@@ -281,18 +279,22 @@ h1{
     margin-left: 1125px;
 }
 
+.img_glif_spec{
+    width: 55%;
+}
+
 .font{
-    margin-top: -25%;
+    margin-top: -30%;
     margin-left: 967px;
 }
 
 .text_font{
-    margin-top: -36%;
-    margin-left: 100px;
+    margin-top: -43%;
+    margin-left: 110px;
 }
 
 .img_font{
-    width: 80%;
+    width: 100%;
 }
 
 .uni{
@@ -304,12 +306,12 @@ h1{
 }
 
 .r_ang{
-    margin-top: 5%;
+    margin-top: 4%;
     margin-left: 66px;
 }
 
 .img_r_ang{
-    width: 8%;
+    width: 8.8%;
 }
 
 .vse_uni{
@@ -353,12 +355,12 @@ h1{
 }
 
 .img_l_ang{
-    width: 50%;
+    width: 65%;
 }
 
 .l_ang{
-    margin-top: -25%;
-    margin-left: 1200px;
+    margin-top: -26%;
+    margin-left: 1250px;
 }
 
 .text_ouni{
